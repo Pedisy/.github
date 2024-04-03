@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  Bootstrap is the world's most powerful, extensible, and feature-packed frontend toolkit—<br>with a vast community of themes, extensions, plugins, and more.
+  El Software gastronómico más fácil, rápido y completo de mercado.
 </p>
 
 <p align="center">
